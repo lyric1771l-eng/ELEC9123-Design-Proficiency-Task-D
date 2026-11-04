@@ -1,6 +1,4 @@
-# ELEC9123 Design Proficiency - Task D (2025)
-
-**Queueing System Performance Analysis**
+# (Data Communication Networks) Waiting Time Analysis for Markovian Queues Using Discrete Event Simulations
 
 Discrete-event simulation and analytical queueing models in MATLAB. Prepared by Yan Liang for ELEC9123 Design Proficiency (Task D), UNSW, 2025.
 
