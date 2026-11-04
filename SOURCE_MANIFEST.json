@@ -1,0 +1,57 @@
+{
+  "note": "MATLAB source files copied byte-for-byte from the author-provided coursework files. No algorithm modifications or MATLAB execution during publication.",
+  "files": [
+    {
+      "file": "level_2/MM1_DES.m",
+      "sha256": "b2428f05f3af349f1a046dfdb00c827600d9d00413dd3683757c248865ab741b"
+    },
+    {
+      "file": "level_2/MM1_analysis.m",
+      "sha256": "5ff64fabdc864ec3099ba882bb1eeda0ccbb1807addf7a0896fe01911509f62a"
+    },
+    {
+      "file": "level_2/main_MM1.m",
+      "sha256": "96a0974dced575a8a5891d18d4f0019565afe9b757c6d2c2521e5b6ed2f05445"
+    },
+    {
+      "file": "level_3/MM1K_DES.m",
+      "sha256": "d52fa6c325accbb7fe8e96275a72f7f941a6eb8f54c6f456070c560d9a4ab41c"
+    },
+    {
+      "file": "level_3/MM1K_analysis.m",
+      "sha256": "f3a050860de5bd95a2b97d62000ba90ce09e8d512efe575b0911f4a14a6d85df"
+    },
+    {
+      "file": "level_3/main_MM1K.m",
+      "sha256": "1f8758c3f550e546022efdf2a80182642b31428808d2935440221c3819ab08c6"
+    },
+    {
+      "file": "level_4/MG1_DES.m",
+      "sha256": "a23b39cbf36cbc80d3e54451f6d6c4a777fcc3316c5b9474c729c7d6794f645b"
+    },
+    {
+      "file": "level_4/MG1_analysis.m",
+      "sha256": "a890a2a49163061008ce5da25c841b3707af8b2b59df00b6b1de1a64d9625bc2"
+    },
+    {
+      "file": "level_4/main_MG1.m",
+      "sha256": "a8ee28063775070555ad43b20cc2b325bb2851fe00a9f317c4e2865a50a7993d"
+    },
+    {
+      "file": "level_4/plot_queue_evolution.m",
+      "sha256": "e95ab63bc89a6e5babb5916d58bf77ca2edb7d2daec72f4c29adc06a08727dff"
+    },
+    {
+      "file": "level_5/MMm_DES.m",
+      "sha256": "d3124d83e4f8a5a3b319ae1f61d896d49eee69787597aec5bfcdf8a8c64dcd15"
+    },
+    {
+      "file": "level_5/MMm_analysis.m",
+      "sha256": "b78be41780941e86f43913d7d6b1fb239d6ca7b7ac80f8a47e8afb9540804e74"
+    },
+    {
+      "file": "level_5/main.m",
+      "sha256": "5ce38a3b1dfdc253ee7ba45cdb96b20239b6005776db8869d50fb90980346a3b"
+    }
+  ]
+}
